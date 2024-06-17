@@ -8,7 +8,7 @@ TypeScript, but they can fail to type-check for safety reasons.
 
 History
 --------
-Anders Hejlsberg created TypeScript in 2010 at Microsoft, and its first version was available to the public in October 2012 with version 0.8, after two years of internal development at Microsoft.
+TypeScript created by Anders Hejlsberg in 2010 at Microsoft, and its first version was available to the public in October 2012 with version 0.8, after two years of internal development at Microsoft.
 
 TypeScript 0.9, released in 2013, added support for generics.
 
